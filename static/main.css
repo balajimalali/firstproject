@@ -1,0 +1,14 @@
+body{
+	background-color: yellow;
+}
+
+.image{
+	width: 100%;
+	height: auto;
+}
+
+#welcome{
+	font-style: bold;
+	color: #1e8996;
+	
+}
